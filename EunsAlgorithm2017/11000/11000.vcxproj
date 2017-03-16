@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{1344657F-21C8-420B-AF37-C510C9E899C6}</ProjectGuid>
+    <ProjectGuid>{BE42F69F-B9F3-4357-9B74-F6F455BF3D6B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My10000</RootNamespace>
+    <RootNamespace>My11000</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -78,10 +78,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="10172.cpp">
+    <ClCompile Include="11718.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="10718.cpp">
+    <ClCompile Include="11719.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
